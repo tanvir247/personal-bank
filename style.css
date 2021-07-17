@@ -1,0 +1,35 @@
+body{
+
+}
+.container{
+    margin-top: 100px;
+}
+.login-content{
+    margin-top: 50px;
+    padding: 30px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 05px gray;
+}
+#login-area{
+    margin-top: 100px;
+}
+
+.deposit{
+    background-color: chartreuse;
+}
+.withdraw{
+    background-color: coral;
+}
+.balance{
+    background-color: darkcyan;
+}
+.status{
+    margin: 10px 0px; 
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#display{
+    display: none;
+}
